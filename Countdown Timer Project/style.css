@@ -17,8 +17,8 @@ body{
 }
 
 h1{
-  font-size: 4rem;
-  margin-top: -40rem;
+  font-size: 64px;
+  margin-top: -640px;
 
 }
 .container{
@@ -28,9 +28,9 @@ h1{
 }
 
 .heading{
-  font-size: 5rem;
+  font-size: 80px;
   line-height: 1;
-  margin: 0 2rem;
+  margin: 0 32px;
 }
 
 .span-text{ 
@@ -39,5 +39,5 @@ h1{
 }
 
 .span-text span{
-  font-size: 1.4rem;
+  font-size: 23px;
 }
