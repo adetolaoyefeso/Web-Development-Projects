@@ -1,0 +1,43 @@
+/* Selects all elements */ *{
+  box-sizing: border-box;
+  
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-image:url("pic.jpg");
+  background-position: center center;
+  min-height: 120vh;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1{
+  font-size: 4rem;
+  margin-top: -40rem;
+
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.heading{
+  font-size: 5rem;
+  line-height: 1;
+  margin: 0 2rem;
+}
+
+.span-text{ 
+  text-align: center;
+
+}
+
+.span-text span{
+  font-size: 1.4rem;
+}
