@@ -22,7 +22,7 @@ function countdown() {
 }
 
 function setTime(time) {
-  return time < 10 ? (`0${time}`) : time; //If the rime left is less than 10, add a zero infront of it
+  return time < 10 ? (`0${time}`) : time; //If the time left is less than 10, add a zero infront of it
 }
 countdown();
 
